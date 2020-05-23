@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/monster-replica/static/css/main.122d9160.chunk.css",
-    "main.js": "/monster-replica/static/js/main.b8c5472f.chunk.js",
-    "main.js.map": "/monster-replica/static/js/main.b8c5472f.chunk.js.map",
-    "runtime-main.js": "/monster-replica/static/js/runtime-main.7324cb53.js",
-    "runtime-main.js.map": "/monster-replica/static/js/runtime-main.7324cb53.js.map",
-    "static/js/2.bda8a786.chunk.js": "/monster-replica/static/js/2.bda8a786.chunk.js",
-    "static/js/2.bda8a786.chunk.js.map": "/monster-replica/static/js/2.bda8a786.chunk.js.map",
-    "index.html": "/monster-replica/index.html",
-    "precache-manifest.7dd617fa9d545bcd6c706cf44951cba8.js": "/monster-replica/precache-manifest.7dd617fa9d545bcd6c706cf44951cba8.js",
-    "service-worker.js": "/monster-replica/service-worker.js",
-    "static/css/main.122d9160.chunk.css.map": "/monster-replica/static/css/main.122d9160.chunk.css.map",
-    "static/js/2.bda8a786.chunk.js.LICENSE.txt": "/monster-replica/static/js/2.bda8a786.chunk.js.LICENSE.txt"
+    "main.css": "/monsters-roledex-replica/static/css/main.122d9160.chunk.css",
+    "main.js": "/monsters-roledex-replica/static/js/main.e8d51217.chunk.js",
+    "main.js.map": "/monsters-roledex-replica/static/js/main.e8d51217.chunk.js.map",
+    "runtime-main.js": "/monsters-roledex-replica/static/js/runtime-main.c8149165.js",
+    "runtime-main.js.map": "/monsters-roledex-replica/static/js/runtime-main.c8149165.js.map",
+    "static/js/2.bda8a786.chunk.js": "/monsters-roledex-replica/static/js/2.bda8a786.chunk.js",
+    "static/js/2.bda8a786.chunk.js.map": "/monsters-roledex-replica/static/js/2.bda8a786.chunk.js.map",
+    "index.html": "/monsters-roledex-replica/index.html",
+    "precache-manifest.800b674c44a39d75674cd0306e196828.js": "/monsters-roledex-replica/precache-manifest.800b674c44a39d75674cd0306e196828.js",
+    "service-worker.js": "/monsters-roledex-replica/service-worker.js",
+    "static/css/main.122d9160.chunk.css.map": "/monsters-roledex-replica/static/css/main.122d9160.chunk.css.map",
+    "static/js/2.bda8a786.chunk.js.LICENSE.txt": "/monsters-roledex-replica/static/js/2.bda8a786.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7324cb53.js",
+    "static/js/runtime-main.c8149165.js",
     "static/js/2.bda8a786.chunk.js",
     "static/css/main.122d9160.chunk.css",
-    "static/js/main.b8c5472f.chunk.js"
+    "static/js/main.e8d51217.chunk.js"
   ]
 }
